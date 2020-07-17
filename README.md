@@ -2,7 +2,7 @@
 
 :heart: :computer: :+1: :coffee: :sparkles: :family: :guitar: :microphone: :metal: :thinking: :capricorn:
 
-### Expertise - Data Structures and Algorithms, Programming, REST API Microservices, API Gateway
+### Expertise - Data Structures and Algorithms, Programming, Microservices, REST API, API Gateway
 #### Programming Languages - UNIX/Linux Shell Scripting, Golang, Java, Swift
 ##### Operating Systems - Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows
 ###### Databases - Postgres, Cassandra, Mongo DB

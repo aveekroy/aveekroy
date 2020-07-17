@@ -7,13 +7,13 @@
 >Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@golang_coding](https://www.instagram.com/golang_coding/) [@ios.app.dev](https://www.instagram.com/ios.app.dev/)
 
 #### *Expertise* = [ Data Structures and Algorithms, Programming, Microservices, REST API, API Gateway ]
->#### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Swift ]
+#### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Swift ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
->#### *Databases* = Postgres, [ Cassandra, Mongo DB ]
+#### *Databases* = Postgres, [ Cassandra, Mongo DB ]
 #### *Project Management* = [ Jira, Trello ]
->#### *Version Control* = [ GitHub, Bitbucket, GitLab ]
+#### *Version Control* = [ GitHub, Bitbucket, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
->#### *Product/Tools* = [ Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman ]
+#### *Product/Tools* = [ Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman ]
 #### *Integrated Dev Environment* = [ Jetbrains(Intellij, Goland, Webstorm), Visual Studio Code, XCode ]
 
 

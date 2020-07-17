@@ -1,16 +1,15 @@
-### Hi there 👋
+# Software Engineer
 
+:heart: :computer: :+1: :coffee: :sparkles: :family: :guitar: :microphone: :metal: :thinking: :capricorn:
 
-**aveekroy/aveekroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Expertise - Data Structures and Algorithms, Programming, REST API Microservices, API Gateway
+#### Programming Languages -- UNIX/Linux Shell Scripting, Golang, Java, Swift
+##### Operating Systems -- Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows
+###### Databases -- Postgres, Cassandra, Mongo DB
+> **Project Management -- Jira, Trello**
+###### Version Control -- GitHub, Bitbucket, GitLab
+##### Documentation -- Confluence, Markdown
+#### Product/Tools -- Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman
+### Integrated Dev Environment -- Jetbrains IDE(Intellij, Goland, Webstorm), Visual Studio Code, XCode 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 

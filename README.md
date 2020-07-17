@@ -10,6 +10,6 @@
 ###### Version Control - GitHub, Bitbucket, GitLab
 ##### Documentation - Confluence, Markdown
 #### Product/Tools - Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman
-### IDE - Jetbrains IDE(Intellij, Goland, Webstorm), Visual Studio Code, XCode 
+### Integrated Development Environment - Jetbrains IDE(Intellij, Goland, Webstorm), Visual Studio Code, XCode 
 
 

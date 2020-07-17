@@ -1,6 +1,6 @@
 # Software Engineer
 
-:heart: :computer: :+1: :coffee: :sparkles: :family: :guitar: [@muzik_bytes](https://www.instagram.com/muzik_bytes/) :microphone: :metal: :thinking: :capricorn:
+:heart: :computer: :+1: :coffee: :family: :sparkles: :thinking: :capricorn: :guitar: [@muzik_bytes](https://www.instagram.com/muzik_bytes/) :microphone: :metal:
 
 >Udemy Course Author = <a href="https://www.udemy.com/course/go-api-development/?couponCode=3679F402160D72A10115" target="_blank">GO API Development</a>
 

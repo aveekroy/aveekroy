@@ -6,7 +6,7 @@
 >Udemy Course Author = <a href="https://www.udemy.com/course/go-api-development/?couponCode=3679F402160D72A10115" target="_blank">GO API Development</a>
 --->
 
->Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@golang_coding](https://www.instagram.com/golang_coding/) [@ios.app.dev](https://www.instagram.com/ios.app.dev/)
+>Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@java_golang_coding](https://www.instagram.com/java_golang_coding/) [@ios.app.dev](https://www.instagram.com/ios.app.dev/)
 
 > Trying to be a Superman, as most of the recruiters wants that kind of person... Phew!!!
 

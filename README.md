@@ -10,14 +10,14 @@
 
 > Trying to be a Superman, as most of the recruiters wants that kind of person... Phew!!!
 
-### *Interests* = [ Data Structures and Algorithms, Programming, Microservices, REST API, API Gateway ]
+### *Interests* = [ Data Structures and Algorithms, Programming/Development, Microservices Architecture, API ]
 ### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Swift ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 ##### *Databases* = [ Postgres, Cassandra, Mongo DB ]
 ###### *Project Management* = [ Jira, Trello ]
 ##### *Version Control* = [ GitHub, Bitbucket, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
-### *Product/Tools* = [ Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman ]
+### *Product/Tools* = [ Rancher(K8s), APIGEE API Gateway, Splunk, Docker, Kubernetes, Postman ]
 ### *IDE's* = [ Jetbrains(Intellij, Goland, Webstorm), Visual Studio Code, XCode, Android Studio ]
 
 

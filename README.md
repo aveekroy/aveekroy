@@ -18,6 +18,6 @@
 ##### *Version Control* = [ GitHub, Bitbucket, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
 ### *Product/Tools* = [ Rancher(K8s), APIGEE Edge, Splunk, Docker, Kubernetes, Postman ]
-### *IDE's* = [ Jetbrains(Intellij, Goland, Webstorm), Visual Studio Code, XCode ]
+### *IDE's* = [ Jetbrains(Intellij, Goland, Webstorm), Visual Studio Code, XCode, Android Studio ]
 
 

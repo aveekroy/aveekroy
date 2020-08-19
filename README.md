@@ -10,7 +10,7 @@
 
 > Trying to be a Superman, as most of the recruiters wants that kind of person... Phew!!!
 
-### *Expertise* = [ Data Structures and Algorithms, Programming, Microservices, REST API, API Gateway ]
+### *Interests* = [ Data Structures and Algorithms, Programming, Microservices, REST API, API Gateway ]
 ### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Swift ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 ##### *Databases* = [ Postgres, Cassandra, Mongo DB ]

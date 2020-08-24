@@ -10,8 +10,8 @@
 
 > Trying to be a Superman, as most of the recruiters wants that kind of person... Phew!!!
 
-### *Interests* = [ Data Structures and Algorithms, Programming/Development, Microservices Architecture ]
-### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Swift ]
+### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Apps, Microservices Architecture ]
+### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Dart ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 ##### *Databases* = [ Postgres, Cassandra, Mongo DB ]
 ###### *Project Management* = [ Jira, Trello ]

@@ -11,13 +11,13 @@
 > Trying to be a Superman, as most of the recruiters wants that kind of person... Phew!!!
 
 ### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Apps, Microservices Architecture ]
-### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Dart ]
+### *Programming Languages* = [ UNIX/Linux Shell Scripting, Golang, Java, Dart, NodeJS ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
-##### *Databases* = [ Postgres, Cassandra, Mongo DB ]
+##### *Databases* = [ Postgres, Cassandra, Mongo DB, Firebase Cloud Storage ]
 ###### *Project Management* = [ Jira, Trello ]
 ##### *Version Control* = [ GitHub, Bitbucket, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
-### *Product/Tools* = [ Rancher(K8s), APIGEE API Gateway, API, Splunk, Docker, Kubernetes, Postman ]
+### *Product/Tools* = [ Rancher(K8s), Docker, Kubernetes, APIGEE API Gateway, REST API, GraphQL, Postman, Splunk ]
 ### *IDE's* = [ Jetbrains(Intellij, Goland, Webstorm), Visual Studio Code, XCode, Android Studio ]
 
 

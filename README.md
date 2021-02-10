@@ -11,7 +11,7 @@
 ### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Mobile Apps, Microservices Architecture ]
 ### *Programming Languages* = [ Dart, Javascript, Java, Golang, Shell Scripting ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
-##### *Databases* = [ Postgres, Cassandra, Mongo DB, Firebase Cloud Storage ]
+##### *Databases* = [ Postgres, Mongo DB, Firebase Cloud Storage ]
 ###### *Project Management* = [ Jira, Trello ]
 ##### *Version Control* = [ GitHub, Bitbucket, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]

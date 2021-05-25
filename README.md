@@ -8,7 +8,7 @@
 
 >Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@java_golang_coding](https://www.instagram.com/java_golang_coding/) [@mobile.apps.dev](https://www.instagram.com/mobile.apps.dev/)
 
-### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Mobile Apps, Microservices Architecture ]
+### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Mobile Apps, API Development, Distributed and Microservices Architecture ]
 ### *Programming Languages* = [ Dart, Javascript/TypeScript, Java, Golang, Shell Scripting, C++ ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 ##### *Databases* = [ Postgres, Mongo DB, Firebase Cloud Storage, Couchbase ]

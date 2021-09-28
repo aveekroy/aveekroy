@@ -6,7 +6,8 @@
 >Udemy Course Author = <a href="https://www.udemy.com/course/go-api-development/?couponCode=3679F402160D72A10115" target="_blank">GO API Development</a>
 --->
 
->Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@techies.nest](https://www.instagram.com/techies.nest/) [@mobile.apps.dev](https://www.instagram.com/flutter.mobile.apps/) [@unity.game.engine](https://www.instagram.com/unity.game.engine/)
+>Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/) [@techies.nest](https://www.instagram.com/techies.nest/) [@
+flutter.mobile.apps](https://www.instagram.com/flutter.mobile.apps/) [@unity.game.engine](https://www.instagram.com/unity.game.engine/)
 
 #### *Interests* = [ Data Structures and Algorithms, Programming/Development, Flutter Mobile Apps, API Development, Distributed and Microservices Architecture ]
 #### *Programming Languages* = [ Dart, C#, Javascript/TypeScript, Java, Golang, Shell Scripting ]

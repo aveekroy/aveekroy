@@ -12,7 +12,6 @@
 #### *Programming Languages* = [ Dart, C#, Javascript/TypeScript, Java, Golang, Shell Scripting ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 #### *Databases* = [ Postgres, Mongo DB, Firebase Cloud Storage, Couchbase ]
-#### *Project Management* = [ Jira, Trello ]
 #### *Version Control* = [ GitHub, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
 #### *Product/Tools/Frameworks* = [ NodeJS, Flutter, NestJS, JWT, Unity, Rancher(K8s), Docker, Kubernetes, APIGEE API Gateway, REST API, GraphQL, Postman ]

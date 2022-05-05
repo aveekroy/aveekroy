@@ -14,5 +14,5 @@
 #### *Databases* = [ Postgres, Mongo DB, Firebase Cloud Storage, Couchbase ]
 #### *Version Control* = [ GitHub, GitLab ]
 #### *Documentation* = [ Confluence, Markdown ]
-#### *Product/Tools/Frameworks* = [ NodeJS, Flutter, NestJS, JWT, Unity, Rancher(K8s), Docker, Kubernetes, APIGEE API Gateway, REST API, GraphQL, Postman ]
+#### *Product/Tools/Frameworks* = [ ReactJS, NodeJS, Flutter, NestJS, JWT, Unity, Rancher(K8s), Docker, Kubernetes, APIGEE API Gateway, REST API, GraphQL, Postman ]
 #### *IDE's* = [ Android Studio, IntelliJ Web Storm, Unity, Visual Studio Code, XCode ]

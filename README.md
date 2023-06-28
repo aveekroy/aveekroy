@@ -6,7 +6,8 @@
 >Udemy Course Author = <a href="https://www.udemy.com/course/go-api-development/?couponCode=3679F402160D72A10115" target="_blank">GO API Development</a>
 --->
 
->Instagram Channels = [@techbox_cs](https://www.instagram.com/techbox_cs/)
+>Instagram Channels =[@aveek.codes](https://www.instagram.com/aveek.codes/) & [@techbox_cs](https://www.instagram.com/techbox_cs/)
+>FoodHouse App = [@FoodHouse App](http://foodhouse.life) | [@FoodHouse App Insta Channel](https://www.instagram.com/foodhouse.life/) 
 
 #### *Interests* = [ Data Structures and Algorithms, Programming/Development, Web & Mobile Apps, API Development, Distributed and Microservices Architecture ]
 #### *Programming Languages* = [ Javascript, C++, TypeScript, Golang, Core Java, Dart, Shell Scripting ]

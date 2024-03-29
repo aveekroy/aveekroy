@@ -8,6 +8,8 @@
 
 >Instagram Channels =[@aveek.codes](https://www.instagram.com/aveek.codes/) & [@techbox_cs](https://www.instagram.com/techbox_cs/)
 
+>Band App = [@BandApp](https://band-app.onrender.com/)
+
 >FoodHouse App = [@FoodHouse App](http://foodhouse.life) | [@FoodHouse App Insta Channel](https://www.instagram.com/foodhouse.life/) 
 
 #### *Interests* = [ Data Structures and Algorithms, Programming/Development, Web & Mobile Apps, API Development, Distributed and Microservices Architecture ]

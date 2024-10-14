@@ -10,7 +10,7 @@
 
 >Band App = [@BandApp](https://band-app.onrender.com/)
 
->FoodHouse App = [@FoodHouse App](http://foodhouse.life) | [@FoodHouse App Insta Channel](https://www.instagram.com/foodhouse.life/) 
+>Tasty Trails App = [@TastyTrails](https://tastytrails.live) | [@TastyTrails App Insta Channel](https://www.instagram.com/tastytrails.live/) 
 
 #### *Interests* = [ Data Structures and Algorithms, Programming/Development, Web & Mobile Apps, API Development, Distributed and Microservices Architecture ]
 #### *Programming Languages* = [ Javascript, C++, TypeScript, Golang, Core Java, Dart, Shell Scripting ]

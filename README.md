@@ -6,9 +6,7 @@
 >Udemy Course Author = <a href="https://www.udemy.com/course/go-api-development/?couponCode=3679F402160D72A10115" target="_blank">GO API Development</a>
 --->
 
->Instagram Channels =[@aveek.codes](https://www.instagram.com/aveek.codes/) & [@techbox_cs](https://www.instagram.com/techbox_cs/)
-
->Band App = [@BandApp](https://band-app.onrender.com/)
+>Instagram Channels =[@aveek.codes](https://www.instagram.com/aveek.codes/) & [@dsalgojs](https://www.instagram.com/dsalgojs/)
 
 >Tasty Trails App = [@TastyTrails](https://tastytrails.live) | [@TastyTrails App Insta Channel](https://www.instagram.com/tastytrails.live/) 
 

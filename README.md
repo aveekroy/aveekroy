@@ -11,7 +11,7 @@
 >Tasty Trails App = [@TastyTrails](https://tastytrails.live) | [@TastyTrails App Insta Channel](https://www.instagram.com/tastytrails.live/) 
 
 #### *Interests* = [ Data Structures and Algorithms, Programming/Development, Web & Mobile Apps, API Development, Distributed and Microservices Architecture ]
-#### *Programming Languages* = [ Javascript, C++, TypeScript, Golang, Core Java, Dart, Shell Scripting ]
+#### *Programming Languages* = [ Java, Javascript, C++, TypeScript, Golang, Dart, Shell Scripting ]
 #### *Operating Systems* = [ Mac OS, UNIX/Linux(RHEL, Solaris, Ubuntu, CentOS), Windows ]
 #### *Databases* = [ Postgres, Mongo DB, Firebase Cloud Storage, Couchbase ]
 #### *Version Control* = [ GitHub, GitLab ]
